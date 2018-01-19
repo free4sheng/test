@@ -1,5 +1,5 @@
 all:
-	g++ aaa.cpp
+	g++ main.cpp
 
 clean:
 	rm a.out
